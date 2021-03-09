@@ -1,2 +1,2 @@
-umer chgcgfycbchgkfuyfcgiyffogu
-bilal
+  	Which methods are used to bind the objects on HttpSession instance and get the objects?
+    :Both A & B
