@@ -40,6 +40,27 @@ The doGet() method in the example extracts values of the parameter’s type and 
 Which object of HttpSession can be used to view and manipulate information about a session?
 :All mentioned above
 
+Which of the following is used for session migration
+\:Persisting the session in database
+
+
+Which of the following is true about servlets?
+:Servlets execute within the address space of web server, platform independent and uses the functionality of java class libraries
+
+Which method of the servlet is/are called several times in its life?
+:doPost()
+
+
+Which method in session tracking is used in a bit of information that is sent by a web server to a browser and which can later be read back from that browser?
+:Cookies
+
+
+Which method is used to send the same request and response objects to another servlet in Request Dispatcher?
+:sendRedirect()
+
+
+
+
 
 
 
