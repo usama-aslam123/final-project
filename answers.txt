@@ -16,3 +16,20 @@ Which statement in SQL allows us to change the definition of a table is?
 Which are the session tracking techniques?
 Using cookies
 
+Which of the following code is used to get PrintWriter object in servlet?
+response.getWriter
+
+The FROM SQL clause is used to
+:specify what table we are selecting or deleting data FROM
+
+Which method in session tracking is used in a bit of information that is sent by a web server to a browser and which can later be read back from that browser?
+:Cookies
+
+Session IDs are stored in cookies 
+:true
+
+JDBC API supports____________ and __________ architecture model for accessing the database
+:Both a and b
+
+
+
