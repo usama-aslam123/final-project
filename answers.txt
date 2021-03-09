@@ -44,6 +44,20 @@ Which of the following is used for session migration
 \:Persisting the session in database
 
 
+Which of the following is true about the SQL AS clause?
+:The AS clause in SQL is used to change the column name in the output or assign a name to a derived column.
+
+The virtual table that its created by data from the result of an SQL 'Select' statement is called _________ 
+:view
+
+which of the following SQL command is correct?
+:SELECT Username, Password FROM Users
+
+
+
+
+
+
 Which of the following is true about servlets?
 :Servlets execute within the address space of web server, platform independent and uses the functionality of java class libraries
 
