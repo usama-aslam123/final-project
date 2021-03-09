@@ -50,12 +50,6 @@ Which of the following is true about the SQL AS clause?
 The virtual table that its created by data from the result of an SQL 'Select' statement is called _________ 
 :view
 
-which of the following SQL command is correct?
-:SELECT Username, Password FROM Users
-
-
-
-
 
 
 Which of the following is true about servlets?
@@ -71,6 +65,11 @@ Which method in session tracking is used in a bit of information that is sent by
 
 Which method is used to send the same request and response objects to another servlet in Request Dispatcher?
 :sendRedirect()
+
+which of the following SQL command is correct?
+:SELECT Username, Password FROM Users
+
+
 
 
 
