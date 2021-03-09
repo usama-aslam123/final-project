@@ -100,6 +100,20 @@ In the following statements identify the disadvantages of CGI?
 :SELECT, FROM, WHERE, GROUP BY, HAVING
 
 
+Which data manipulation command is used to combines the records from one or more tables?
+:join
+
+Which of the following statement is correct to display all the cities with the condition, temperature, and humidity whose humidity is in the range of 60 to 75 from the 'whether' table? 
+:SELECT * FROM weather WHERE humidity BETWEEN 60 AND 75
+
+Which of the following is the main drawback of CGI?
+:scalability
+Which are the examples of Web Server?
+:tomcat
+
+
+
+
 
 
 
