@@ -31,5 +31,16 @@ Session IDs are stored in cookies
 JDBC API supports____________ and __________ architecture model for accessing the database
 :Both a and b
 
+‘request’ is instance of which of the following classes? 
+:HttpServletRequest
+
+The doGet() method in the example extracts values of the parameter’s type and number by using __________ 
+:request.getParameter()
+
+Which object of HttpSession can be used to view and manipulate information about a session?
+:All mentioned above
+
+
+
 
 
