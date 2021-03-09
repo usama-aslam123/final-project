@@ -1,2 +1,18 @@
   	Which methods are used to bind the objects on HttpSession instance and get the objects?
     :Both A & B
+    
+    What are the major components of the JDBC?
+    :DriverManager, Driver, Connection, Statement, and ResultSet
+    
+Which of the following is the main drawback of CGI?
+:scalability
+
+Which of the following is stored at client side?
+:cookies
+
+Which statement in SQL allows us to change the definition of a table is?
+:alter
+
+Which are the session tracking techniques?
+Using cookies
+
