@@ -69,6 +69,35 @@ Which method is used to send the same request and response objects to another se
 which of the following SQL command is correct?
 :SELECT Username, Password FROM Users
 
+What is the lifecycle of a servlet? 
+:All mentioned above
+
+Which method of the request object is used to extract values of the input fields in a form when it is submitted?
+:getParameter
+
+Which of the following is not a valid statement in JDBC?
+:QueryStatement
+
+Which of the following code is used to get names of the attributes in servlet? *
+:request.getAttributeNames
+
+SQL Views are also known as 
+:Virtual tables
+
+When destroy method of servlet gets called?
+:The destroy method is called only once at the end of the life cycle of a servlet.
+
+When doGet() method of servlet gets called? 
+:A GET request results from a normal request for a URL
+
+Which method is used to send the same request and response objects to another servlet in Request Dispatcher?
+:sendRedirect()
+
+In the following statements identify the disadvantages of CGI?
+:All mentioned above
+
+) Which of the following is the correct order of a SQL statement?
+:SELECT, FROM, WHERE, GROUP BY, HAVING
 
 
 
