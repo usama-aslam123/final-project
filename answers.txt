@@ -68,3 +68,5 @@ All of these
 The configuration settings that the organization considers mandatory and that must be strictly enforced is called *
 Policies
 
+If you do not have ………….. installed you will be prompt by the ADDS to be installed on the machine
+DHCP server
