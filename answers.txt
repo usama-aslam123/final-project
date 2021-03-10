@@ -53,3 +53,9 @@ Lease offer
 In Non-Repudiation the sender ………… sending the message or transaction *
 Cannot deny
 
+When you add a new forest you have to write the information of……. *
+Domain name
+
+
+A Child account technically is a ……. *
+All of these
