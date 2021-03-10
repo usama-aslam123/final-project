@@ -10,3 +10,16 @@ Domain
 FAT16 can use up to …… different block references *
 65536
 
+To open Disk Management by using which command? *
+diskmgmt.msc
+
+
+FAT16 can use up to …… different block references *
+65536
+
+In Domain Name System, “SOA” stands for *
+Start of authroity 
+
+
+ADDS stands for *
+Active directory domain services
