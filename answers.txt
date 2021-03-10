@@ -23,3 +23,11 @@ Start of authroity
 
 ADDS stands for *
 Active directory domain services
+
+
+How to link a GPO to a domain? *
+Right click the domain to link a GPO and select “link an existing GPO
+
+
+A sector is a group of …….. bytes a minimum addressable unit of the physical storage *
+512
