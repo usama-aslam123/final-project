@@ -1,3 +1,12 @@
 If you select the range of IP from 128.168.1.1 to 128.168.1.20 in DHCP scope, the length of given class will be *
 20
 
+DHCP lease process renewal begins again after …………. Lease duration has expired *
+50%
+
+DNS translate domain names into *
+Domain 
+
+FAT16 can use up to …… different block references *
+65536
+
