@@ -70,3 +70,8 @@ Policies
 
 If you do not have ………….. installed you will be prompt by the ADDS to be installed on the machine
 DHCP server
+
+
+You can get IP settings assigned …… if your network supports this capability *
+automatically 
+
