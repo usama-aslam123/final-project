@@ -33,6 +33,9 @@ A sector is a group of …….. bytes a minimum addressable unit of the physical
 512
 
 Digital certificates are specified by the …… standard *
+
+
+
 X.509
 
 IP reservation means in DHCP *
@@ -59,3 +62,9 @@ Domain name
 
 A Child account technically is a ……. *
 All of these
+
+
+
+The configuration settings that the organization considers mandatory and that must be strictly enforced is called *
+Policies
+
