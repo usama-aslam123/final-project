@@ -46,3 +46,8 @@ Resource records
 Server provides resources and services to one or more clients in ….
 Client-server model
 
+
+The client receives an offer and broadcasts to all DHCP servers that will accept the given offer so that other DHCP server need not make an offer *
+Lease offer
+
+
