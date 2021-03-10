@@ -50,4 +50,6 @@ Client-server model
 The client receives an offer and broadcasts to all DHCP servers that will accept the given offer so that other DHCP server need not make an offer *
 Lease offer
 
+In Non-Repudiation the sender ………… sending the message or transaction *
+Cannot deny
 
