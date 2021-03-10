@@ -31,3 +31,12 @@ Right click the domain to link a GPO and select “link an existing GPO
 
 A sector is a group of …….. bytes a minimum addressable unit of the physical storage *
 512
+
+Digital certificates are specified by the …… standard *
+X.509
+
+IP reservation means in DHCP *
+A reservation ensure that a DHCP server is always assigned the different IP address
+
+
+
