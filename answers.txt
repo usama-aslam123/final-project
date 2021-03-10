@@ -39,4 +39,10 @@ IP reservation means in DHCP *
 A reservation ensure that a DHCP server is always assigned the different IP address
 
 
+The zone file contains mappings between domain names and IP addresses and other resources, organized in the form of text representations of ……. *
+Resource records
+
+
+Server provides resources and services to one or more clients in ….
+Client-server model
 
