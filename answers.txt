@@ -79,3 +79,7 @@ automatically
 You cannot install ADDS unless the following role services or featured are also installed *
 Remote Server Administration tool
 
+
+When a GPO is linked to an OU, the GPO applies to the *
+Site, domain, OU and child OU in the domain
+
