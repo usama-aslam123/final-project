@@ -75,3 +75,7 @@ DHCP server
 You can get IP settings assigned …… if your network supports this capability *
 automatically 
 
+
+You cannot install ADDS unless the following role services or featured are also installed *
+Remote Server Administration tool
+
