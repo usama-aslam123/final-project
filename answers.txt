@@ -31,6 +31,8 @@ None
 UML _____________ prescribe a method for developing objects.
 Does not
 
+
+
 Composition is __________ form of aggregation.
 stronger
 
@@ -97,6 +99,9 @@ Inheritance
 
 How to keep complexity manageable?
 Assign a responsibility so that cohesion remain high
+
+Composition is __________ form of aggregation.
+Weaker
 
 
 
