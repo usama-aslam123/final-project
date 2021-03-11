@@ -4,5 +4,11 @@ Which of the following term is best defined by the statement: ”a structural re
 _____________ is a measure that how strongly one element is connected to other element.
 ...Coupling
 
+Which relation results in reduction of redundancy among use cases
+Both options
 
+Which of following cannot be a controller class?
+Both options
 
+A state machine diagram models the life cycle of a single __________
+Object
