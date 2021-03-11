@@ -109,6 +109,8 @@ List
 ------ is a root principle motivating most of the mechanisms
 Protected variations
 
+Assign the responsibility to the _________
+Software class
 
 
 
