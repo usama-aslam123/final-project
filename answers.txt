@@ -20,3 +20,13 @@ Assign a responsibility so that cohesion remain high
 
 
 
+How to design for varying but related rules?
+Strategy
+
+
+__________relation refers to abstract actor
+None
+
+
+UML _____________ prescribe a method for developing objects.
+Does not
