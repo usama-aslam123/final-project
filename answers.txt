@@ -32,5 +32,8 @@ UML _____________ prescribe a method for developing objects.
 Does not
 
 
+Objects do not exist in ________
+relation 
+
 A reflective or data-driven approach to finding the right class: read it from an ________property
 All mentioned
