@@ -76,3 +76,7 @@ pluggable
 
 Which diagram shows the configuration of run-time processing elements?
 deployment diagram 
+
+Sequence diagram can be drawn for
+Payment
+
