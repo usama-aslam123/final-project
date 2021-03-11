@@ -31,6 +31,10 @@ None
 UML _____________ prescribe a method for developing objects.
 Does not
 
+Composition is __________ form of aggregation.
+stronger
+
+
 
 If you are working on real-time process control applications or systems that involve concurrent processing, you would use a
 state chart diagram 
