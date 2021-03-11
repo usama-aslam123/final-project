@@ -33,6 +33,10 @@ Does not
 
 
 
+Which of the following is the functionality of ‘Data Abstraction’?
+Reduce Complexity
+
+
 Objects do not exist in ________
 relation 
 
