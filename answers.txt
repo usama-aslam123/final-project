@@ -86,4 +86,10 @@ Oracle, Client, Server
 The controller object is ___________object within same process as UI.
 Server side
 
+Domain model illustrates ____________ classes
+Conceptual
+
+Assigning responsibilities _____ to domain layer classes leads problems
+Only
+
 
