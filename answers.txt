@@ -1,1 +1,8 @@
-umer penn  yava saaaa v lela
+Which of the following term is best defined by the statement: ”a structural relationship that specifies that objects of one thing are connected to objects of another”?
+...Association
+
+_____________ is a measure that how strongly one element is connected to other element.
+...Coupling
+
+
+
