@@ -32,6 +32,7 @@ UML _____________ prescribe a method for developing objects.
 Does not
 
 
+
 Objects do not exist in ________
 relation 
 
@@ -51,3 +52,13 @@ Sequence diagram
 
 Which of following cannot be a controller class?
 none
+
+
+
+Polymorphism supports ____________ software components.
+pluggable
+
+
+
+Which diagram shows the configuration of run-time processing elements?
+deployment diagram 
