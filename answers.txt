@@ -92,4 +92,14 @@ Conceptual
 Assigning responsibilities _____ to domain layer classes leads problems
 Only
 
+__________ belong to “is a “relation”.
+Inheritance
+
+How to keep complexity manageable?
+Assign a responsibility so that cohesion remain high
+
+
+
+
+
 
