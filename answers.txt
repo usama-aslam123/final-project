@@ -12,3 +12,11 @@ Both options
 
 A state machine diagram models the life cycle of a single __________
 Object
+
+
+
+How to keep complexity manageable?
+Assign a responsibility so that cohesion remain high
+
+
+
