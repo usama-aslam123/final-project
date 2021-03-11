@@ -37,3 +37,17 @@ relation
 
 A reflective or data-driven approach to finding the right class: read it from an ________property
 All mentioned
+
+
+If child class exists at lowest level of inheritance hierarchy its referred as_______ class
+concrete
+
+GRASP corresponds to ______________
+responsibilites
+
+If you are working on real-time process control applications or systems that involve concurrent processing, you would use a
+Sequence diagram
+
+
+Which of following cannot be a controller class?
+none
