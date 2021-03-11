@@ -111,6 +111,10 @@ Protected variations
 
 Assign the responsibility to the _________
 Software class
+____________is not an example of a use case
+Course
+
+
 
 
 
