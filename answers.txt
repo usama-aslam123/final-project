@@ -36,6 +36,10 @@ stronger
 
 
 
+
+__________ is a root principle motivating most of the mechanisms
+adapter 
+
 If you are working on real-time process control applications or systems that involve concurrent processing, you would use a
 state chart diagram 
 
