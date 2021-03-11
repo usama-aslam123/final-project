@@ -32,6 +32,8 @@ UML _____________ prescribe a method for developing objects.
 Does not
 
 
+If you are working on real-time process control applications or systems that involve concurrent processing, you would use a
+state chart diagram 
 
 Which of the following is the functionality of ‘Data Abstraction’?
 Reduce Complexity
