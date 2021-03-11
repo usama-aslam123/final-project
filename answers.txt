@@ -103,6 +103,10 @@ Assign a responsibility so that cohesion remain high
 Composition is __________ form of aggregation.
 Weaker
 
+All composites maintain a _________ of contained strategies.
+List
+
+
 
 
 
