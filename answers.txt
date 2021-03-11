@@ -80,3 +80,7 @@ deployment diagram
 Sequence diagram can be drawn for
 Payment
 
+Which configuration corresponds to deployment diagram?
+Oracle, Client, Server
+
+
