@@ -106,6 +106,10 @@ Weaker
 All composites maintain a _________ of contained strategies.
 List
 
+------ is a root principle motivating most of the mechanisms
+Protected variations
+
+
 
 
 
