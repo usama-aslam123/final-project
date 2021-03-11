@@ -83,4 +83,7 @@ Payment
 Which configuration corresponds to deployment diagram?
 Oracle, Client, Server
 
+The controller object is ___________object within same process as UI.
+Server side
+
 
