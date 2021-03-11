@@ -30,3 +30,7 @@ None
 
 UML _____________ prescribe a method for developing objects.
 Does not
+
+
+A reflective or data-driven approach to finding the right class: read it from an ________property
+All mentioned
