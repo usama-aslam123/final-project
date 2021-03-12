@@ -1,2 +1,15 @@
-farza yha aye a paper
+The ouput resistance of OP-AMP is
+zero
+
+The Pinch-off Voltage of a JFET is about
+5v
+
+Tunnel diode is also known as
+Esaki diode
+
+ Tunnel diode consist of depletion region which is
+ Narrow
+ 
+ 
+
 
