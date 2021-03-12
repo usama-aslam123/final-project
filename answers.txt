@@ -26,6 +26,26 @@ Brighter Red region
  The tunnel diode is only used at very
 High frequencies
 
+ In Photodiode when there is no incident light , the reverse current is almost negligible and is called 
+ Dark current
+ 
+ 
+  A JFET is also called ……….. transistor
+Unipolar
+
+In a BJT transistor
+IC = IE + IB
+
+ The collector of a transistor is ………….. doped
+Moderately
+
+The oscillator that is used for generating signals of frequency of few 'MHZ'
+Colpitts oscillator
+
+Irradiance is expressed in
+mW/cm2
+
+
 
 
 
