@@ -75,6 +75,23 @@ Decreased
 When drain voltage equals the pinch-off voltage, then drain current ……….. with the increase in drain voltage
 Remains constant
 
+The frequency response of an amplifier is the change in gain or phase shift over a specified range of input signal
+Frequencies
+
+At high frequency the voltage gain of an amplifier ………… due to decrease in capacitive reactance
+Decreases
+
+The n-channel D- MOSFET with a negative VGS is operating in
+Depletion mode
+
+The n-channel D-MOSFET
+Can be operated as E- MOSFET
+
+How many inductors are there in the tank circuit of Hartley’s oscillator
+2
+
+
+
 
 
 
