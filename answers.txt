@@ -59,6 +59,22 @@ Hot-carrier diodes
  
  Which of the following correctly determines the relation between α and β?
  β = α/(1-α)
+ 
+  Lower frequencies are not practically possible in the case of Hartley’s oscillator because of the requirement of low ……………….. value
+Resistance
+
+The dc current gain (β) of a transistor is the ratio of the
+IC / IB
+
+ The JFET is always operated with the gate-source pn junction
+ Reverse Biased
+
+If the reverse biased on the gate of a JFET is increased, then width of the conducting channel
+Decreased
+
+When drain voltage equals the pinch-off voltage, then drain current ……….. with the increase in drain voltage
+Remains constant
+
 
 
 
