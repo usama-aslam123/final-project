@@ -45,6 +45,21 @@ Colpitts oscillator
 Irradiance is expressed in
 mW/cm2
 
+ In a N-channel JFET, the charge carriers are
+Electrons
+
+ Zener breakdown occurs in a zener diode at very
+Low reverse voltage
+
+Schottky diodes are also known as
+Hot-carrier diodes
+
+ In a BJT, if the collector- base junction is reverse biased and the base-emitter junction is forward biased which region is the BJT operating in?
+ Cutoff region
+ 
+ Which of the following correctly determines the relation between α and β?
+ β = α/(1-α)
+
 
 
 
