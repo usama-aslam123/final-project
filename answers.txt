@@ -79,6 +79,17 @@ Routine and non-complex
        Out of eight stages in the process of technological innovation, which of the following is not true
        none of the above
        
+       Which of the following refers to the violation of the principle if a computer is no more accessible?
+
+Availability
+
+Which of the following can be considered as the elements of cyber security?
+All of the above
+
+. Main Process of technology identification process includes
+d) All of above
+       
+       
        
        
       
