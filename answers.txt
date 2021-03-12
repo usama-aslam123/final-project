@@ -105,6 +105,23 @@ Rf/Ri
 When a capacitor is used in place of a resistor in OP-AMP network, its placement determines
 Integration or differentiation
 
+ An inverting closed loop OP-AMP circuit generally has a gain factor ( If R1=R2)
+ Greater than one
+
+ In op-amp, the signal applied at inverting terminal appears at the output terminal with a phase shift
+ 180°
+ 
+ Virtual ground of an OP-AMP means
+The terminal is not physically grounded but terminal voltage is zero due to the other terminal is connected to the ground
+
+ Circuit which compares the resultant or input voltage with a reference voltage is called
+ Varactor
+ 
+ Frequency response is a graph of voltage gain versus
+Frequency
+
+LUN TE CHAR  je tere pure na aye me paar deni teri
+
 
 
 
