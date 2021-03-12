@@ -11,5 +11,14 @@ Esaki diode
  Narrow
  
  
+The advantage of LED is
+all of these
+
+Zener diode can be used to regulate a vary
+ac voltage
+
+Which process of the Electron- Hole pair is responsible for emitting of light in LED?
+Recombination
+
 
 
