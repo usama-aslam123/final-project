@@ -90,8 +90,20 @@ Can be operated as E- MOSFET
 How many inductors are there in the tank circuit of Hartley’s oscillator
 2
 
+An Oscillator is a circuit that produces a periodic waveform on its output with only the ……………. as an input
+DC supply voltage
 
+The improvement of Colpitts oscillator over Hartley’s oscillator is Colpitts oscillator’s performance in
+High Frequency region
 
+Colpitt’s oscillator provides more performance than Hartley’s oscillator because of its ………….. elements.
+Capacitive
+
+The closed loop Gain of the inverting amplifier is given by
+Rf/Ri
+
+When a capacitor is used in place of a resistor in OP-AMP network, its placement determines
+Integration or differentiation
 
 
 
