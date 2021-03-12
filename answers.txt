@@ -20,5 +20,13 @@ ac voltage
 Which process of the Electron- Hole pair is responsible for emitting of light in LED?
 Recombination
 
+The LED made with GaAsP on GaP substrate emit light in the
+Brighter Red region
+
+ The tunnel diode is only used at very
+High frequencies
+
+
+
 
 
