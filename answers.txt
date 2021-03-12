@@ -97,6 +97,9 @@ Business Intelligence (BI)
 . Acquisition evaluation involves-------
  Both a and b
  
+ Which of the following is not a characteristic of a quality data?
+ Integrity
+ 
  
        
        
