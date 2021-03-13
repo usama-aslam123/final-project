@@ -8,3 +8,6 @@ cycle time efficiency
 
 It take all branches and proceed when all incoming branches have completed:
 AND gateway
+
+An activity in a process can invoke a separate sub-process. To use this feature: Decompose large models into smaller ones, making them easier to understand and maintain
+True
