@@ -185,3 +185,28 @@ Process decompose
 
 In order to use a _________, we first need to identify groups of related activities. [those activities which together achieve a particular goal or generate a particular outcome in the process model under analysis.]
 Sub- Process
+
+
+
+This could be calculated as the product of the hourly cost of the resource and the processing time (in hours) of the task.
+human resource cost
+
+
+It is the portion of the cycle time where no work is being done to advance the process. This includes time spent in transferring information about the case between process participants
+False
+
+
+
+When analyzing a process with the aim of addressing issues related to cycle time, It may be useful to start by evaluating the ratio of overall processing time relative to the overall cycle time. This ratio is called:
+cycle time efficiency
+
+
+
+
+The time that resources (e.g. process participants or software applications invoked by the process) spend on actually handling the case
+Processing Time
+
+
+
+It is the portion of the cycle time where no work is being done to advance the process. This includes time spent in transferring information about the case between process participants
+Waiting Time
