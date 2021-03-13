@@ -45,3 +45,6 @@ XOR-join
 
 Timer event indicates an error in the flow and can present as Start, Intermediate and End event of BPM process model:
 False
+
+A set of activities aiming to systematically deﬁne the set of business processes of a company and establish clear criteria for prioritizing them.
+Process Identification
