@@ -99,3 +99,6 @@ User task
 
 To create and modify executable process models (by specifying execution properties):
 Process modeling tool
+
+Offers work items to process participants and allows participants to commit to these work items:
+Worklist Handler
