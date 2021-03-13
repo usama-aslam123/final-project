@@ -42,3 +42,6 @@ False
 
 The purpose of a BPMS is to coordinate an automated business process in sucha way that all work is done at the right time by the right resource.
 True
+
+Central to the BPMS is the execution engine. The engine providesdifferent functionalities including:
+all of the above
