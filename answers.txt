@@ -28,6 +28,9 @@ When analyzing a process with the aim of addressing issues related to cycle time
 
 cycle time efficiency
 
+It is a subject that may be approached from different angles. In abroad sense, it may refer to the intent to automate any conceivable part of proceduralwork that is contained within a business process, from simple operations that arepart of a single process activity up to the automated coordination of entire, complex processes.
+Process Automation
+
 
 Which of the followings are true about Value Chain:
 all of the above
