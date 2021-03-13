@@ -38,5 +38,7 @@ all of the above
 
 
 It is the portion of the cycle time where no work is being done to advance the process. This includes time spent in transferring information about the case between process participants
-
 False
+
+The purpose of a BPMS is to coordinate an automated business process in sucha way that all work is done at the right time by the right resource.
+True
