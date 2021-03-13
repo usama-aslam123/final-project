@@ -60,3 +60,6 @@ acThey are made by domain experts and provides a basis for communication amongst
 to be executed process model
 conceptual process model
 conceptual "to be" process model
+
+Exceptions are ________ that deviate a process from its normal course
+events
