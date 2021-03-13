@@ -6,8 +6,29 @@ true
 When analyzing a process with the aim of addressing issues related to cycle time, It may be useful to start by evaluating the ratio of overall processing time relative to the overall cycle time. This ratio is called:
 cycle time efficiency
 
-It take all branches and proceed when all incoming branches have completed:
-AND gateway
 
-An activity in a process can invoke a separate sub-process. To use this feature: Decompose large models into smaller ones, making them easier to understand and maintain
-True
+
+it is a work that is performed within a business process. 
+Activity
+
+
+
+It is the portion of the cycle time where no work is being done to advance the process. This includes time spent in transferring information about the case between process participants
+
+Waiting Time
+
+
+The time that resources (e.g. process participants or software applications invoked by the process) spend on actually handling the case
+Processing Time
+
+
+
+
+When analyzing a process with the aim of addressing issues related to cycle time, It may be useful to start by evaluating the ratio of overall processing time relative to the overall cycle time. This ratio is called:
+
+cycle time efficiency
+
+
+It is the portion of the cycle time where no work is being done to advance the process. This includes time spent in transferring information about the case between process participants
+
+False
