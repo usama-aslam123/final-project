@@ -25,7 +25,6 @@ Processing Time
 
 
 When analyzing a process with the aim of addressing issues related to cycle time, It may be useful to start by evaluating the ratio of overall processing time relative to the overall cycle time. This ratio is called:
-
 cycle time efficiency
 
 
@@ -53,4 +52,65 @@ Process Identification
 
 
 
-Oyee mam n glati s access dy di hai saron ko. answer key show ho rhi hai ab. apna page refresh kro ar ap logon ko answer key show hony lg jai gi. humy b show ho rhi 
+Timer event indicates an error in the flow and can present as Start, Intermediate and End event of BPM process model:
+False
+
+Which type of gateway moves each token it receives in one of its input arcs to its output arc?
+XOR-join
+
+
+A set of activities aiming to systematically deﬁne the set of business processes of a company and establish clear criteria for prioritizing them.
+Process Identification
+
+
+
+
+For each process, it should be determined how susceptible they are to process management initiatives, either incidental or on a continuous basis.
+Feasibility
+
+
+
+To manage automation solutions and configure access to system components:
+Administration & Monitoring Tools
+
+
+Offers work items to process participants and allows participants to commit to these work items:
+Worklist Handler
+
+
+
+To create and modify executable process models (by specifying execution properties):
+Execution Engine
+
+
+Tasks where process participants need to provide input to the process, typically via the use of web forms:
+User task
+
+Tasks that can executed by an external application or internally to the BPMS, for example checking the stock availability through an ERP system or retrieving a document from a DMS :
+Automated task
+
+
+
+
+
+CT formula for REWORK gateway:
+CT = T / (1-r)
+
+CT formula for AND gateway:
+CT = max(T1, T2,…, TN)
+
+
+
+What is the cycle time? A=50%%, B=50
+25
+
+
+Resource Utilization =
+Time spent per resource on process work / Time available per resource for process work
+
+
+
+
+
+
+
