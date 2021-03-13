@@ -51,3 +51,7 @@ deployed
 
 __________is the component of a BPMS through whichprocess participants are (i) offered work items and (ii) commit to these.
 Worklist Handler
+
+
+The external application has to expose a service interface with which the enginecan interact. Thus, we simply refer to such applications as:
+External services
