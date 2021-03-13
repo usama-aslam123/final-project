@@ -78,3 +78,18 @@ Waiting Time
 
 Cost measures:
 processing cost + cost of waste = per instance cost
+
+Resource Utilization =
+Time spent per resource on process work / Time available per resource for process work
+
+What is the cycle time? A=50%%, B=50
+25
+
+CT formula for AND gateway:
+CT = max(T1, T2,…, TN)
+
+CT formula for REWORK gateway:
+CT = T / (1-r)
+
+Tasks that can executed by an external application or internally to the BPMS, for example checking the stock availability through an ERP system or retrieving a document from a DMS :
+Automated task
