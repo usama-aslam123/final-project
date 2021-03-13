@@ -45,3 +45,6 @@ True
 
 Central to the BPMS is the execution engine. The engine providesdifferent functionalities including:
 all of the above
+
+A process model can be__________ to the engine in order to be executed.
+deployed
