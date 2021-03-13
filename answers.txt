@@ -29,6 +29,11 @@ When analyzing a process with the aim of addressing issues related to cycle time
 cycle time efficiency
 
 
+Which of the followings are true about Value Chain:
+all of the above
+
+
+
 It is the portion of the cycle time where no work is being done to advance the process. This includes time spent in transferring information about the case between process participants
 
 False
