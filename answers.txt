@@ -75,3 +75,6 @@ Processing Time
 
 Time taken by non value-adding activities:
 Waiting Time
+
+Cost measures:
+processing cost + cost of waste = per instance cost
