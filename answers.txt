@@ -1,1 +1,5 @@
-king in the north
+It is the portion of the cycle time where no work is being done to advance the process. This includes time spent in transferring information about the case between process participants
+true
+
+
+
