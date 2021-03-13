@@ -109,6 +109,37 @@ Resource Utilization =
 Time spent per resource on process work / Time available per resource for process work
 
 
+Cost measures:
+processing cost + cost of waste = per instance cost
+
+
+Time taken by non value-adding activities:
+Waiting Time
+
+
+Time taken by value-adding activities:
+Processing Time
+
+
+An event-based exclusive split is represented by a gateway marked by an empty ________ enclosed in a double-line circle.
+pentagon
+
+By default a __________ is embedded within its parent process model, and as such it can only be invoked from within that process model.
+sub-process
+
+
+Exceptions are ________ that deviate a process from its normal course
+events
+
+
+The external application has to expose a service interface with which the enginecan interact. Thus, we simply refer to such applications as:
+External services
+
+
+
+
+__________is the component of a BPMS through whichprocess participants are (i) offered work items and (ii) commit to these.
+Worklist Handler
 
 
 
