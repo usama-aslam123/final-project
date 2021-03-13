@@ -48,3 +48,6 @@ all of the above
 
 A process model can be__________ to the engine in order to be executed.
 deployed
+
+__________is the component of a BPMS through whichprocess participants are (i) offered work items and (ii) commit to these.
+Worklist Handler
