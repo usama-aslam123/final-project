@@ -5,3 +5,6 @@ true
 
 When analyzing a process with the aim of addressing issues related to cycle time, It may be useful to start by evaluating the ratio of overall processing time relative to the overall cycle time. This ratio is called:
 cycle time efficiency
+
+It take all branches and proceed when all incoming branches have completed:
+AND gateway
