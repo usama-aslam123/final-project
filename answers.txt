@@ -102,3 +102,9 @@ Process modeling tool
 
 Offers work items to process participants and allows participants to commit to these work items:
 Worklist Handler
+
+To manage automation solutions and configure access to system components:
+Administration & Monitoring Tools
+
+For each process, it should be determined how susceptible they are to process management initiatives, either incidental or on a continuous basis.
+Feasibility
