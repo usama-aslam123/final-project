@@ -55,3 +55,8 @@ Worklist Handler
 
 The external application has to expose a service interface with which the enginecan interact. Thus, we simply refer to such applications as:
 External services
+
+acThey are made by domain experts and provides a basis for communication amongst relevant stakeholders.
+to be executed process model
+conceptual process model
+conceptual "to be" process model
