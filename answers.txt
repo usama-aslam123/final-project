@@ -66,3 +66,12 @@ events
 
 By default a __________ is embedded within its parent process model, and as such it can only be invoked from within that process model.
 sub-proces
+
+An event-based exclusive split is represented by a gateway marked by an empty ________ enclosed in a double-line circle.
+pentagon
+
+Time taken by value-adding activities:
+Processing Time
+
+Time taken by non value-adding activities:
+Waiting Time
