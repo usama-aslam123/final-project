@@ -143,5 +143,42 @@ Worklist Handler
 
 
 
+A process model can be__________ to the engine in order to be executed.
+deployed
 
+
+Central to the BPMS is the execution engine. The engine providesdifferent functionalities including:
+all of the above
+
+
+The purpose of a BPMS is to coordinate an automated business process in sucha way that all work is done at the right time by the right resource.
+True
+
+
+It is a subject that may be approached from different angles. In abroad sense, it may refer to the intent to automate any conceivable part of proceduralwork that is contained within a business process, from simple operations that arepart of a single process activity up to the automated coordination of entire, complex processes.
+Process Automation
+
+
+Which of the followings are true about Value Chain:
+all of the above
+
+
+
+An activity in a process can invoke a separate sub-process. To use this feature: Decompose large models into smaller ones, making them easier to understand and maintain
+True
+
+
+It take all branches and proceed when all incoming branches have completed:
+AND gateway
+
+it is a work that is performed within a business process. 
+Activity
+
+
+Four types of core elements:
+Activity, event, gateway, sequence flow
+
+
+When capturing complex business processes, the resulting process model may be too large to be understood at once. Take the order fulfilment process model:
+Process decompose
 
