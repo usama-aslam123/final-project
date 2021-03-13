@@ -63,3 +63,6 @@ conceptual "to be" process model
 
 Exceptions are ________ that deviate a process from its normal course
 events
+
+By default a __________ is embedded within its parent process model, and as such it can only be invoked from within that process model.
+sub-proces
