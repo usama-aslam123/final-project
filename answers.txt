@@ -93,3 +93,9 @@ CT = T / (1-r)
 
 Tasks that can executed by an external application or internally to the BPMS, for example checking the stock availability through an ERP system or retrieving a document from a DMS :
 Automated task
+
+Tasks where process participants need to provide input to the process, typically via the use of web forms:
+User task
+
+To create and modify executable process models (by specifying execution properties):
+Process modeling tool
