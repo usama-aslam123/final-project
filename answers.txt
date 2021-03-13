@@ -182,3 +182,6 @@ Activity, event, gateway, sequence flow
 When capturing complex business processes, the resulting process model may be too large to be understood at once. Take the order fulfilment process model:
 Process decompose
 
+
+In order to use a _________, we first need to identify groups of related activities. [those activities which together achieve a particular goal or generate a particular outcome in the process model under analysis.]
+Sub- Process
